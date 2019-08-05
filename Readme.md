@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Виолетта](https://up.htmlacademy.ru/ecmascript/9/user/24321).
-* Наставник: `Неизвестно`.
+* Наставник: `Максим Сёмушкин`.
 
 ---
 
